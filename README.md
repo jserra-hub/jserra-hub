@@ -1,33 +1,47 @@
 # João Vitor Soares Serra 👋
 
-<p align="left">
-  <img src="https://img.shields.io/badge/IFSP--Bragança-Análise%20e%20Desenvolvimento%20de%20Sistemas-blue?style=for-the-badge" alt="IFSP">
-  <img src="https://img.shields.io/badge/Perfil-Auxiliar%20Administrativo-lightgrey?style=for-the-badge" alt="Administrativo">
+<p align="center">
+  <img src="https://img.shields.io/badge/IFSP-ADS-0077B5?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Admin-Operations-gray?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack_Development-green?style=for-the-badge" />
 </p>
 
-### 🎓 Sobre Mim
-Estudante de **Análise e Desenvolvimento de Sistemas** no **IFSP - Campus Bragança Paulista**. Atualmente, atuo como **Auxiliar Administrativo**, unindo a organização e gestão de processos da área administrativa com o desenvolvimento de soluções tecnológicas eficientes.
+### 🖋️ Executive Summary
+Analista em formação pelo **IFSP Bragança Paulista** com sólida bagagem em **Processos Administrativos**. Minha abordagem une a precisão da gestão organizacional com a construção de arquiteturas de software escaláveis. Especialista em transformar requisitos complexos em código limpo e funcional.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 💻 Tech Stack & Ecosystem
 
-| Linguagens | Web & Front-end | Ferramentas |
+| ⚡ Core Languages | 🎨 Web & Experience | 🛠️ Tools & DevOps |
 | :--- | :--- | :--- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JS"> | | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="35" height="35"> **C Programming** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35" height="35"> **HTML5 Semantics** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="35" height="35"> **CSS3 / UI Design** |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="35" height="35"> **JavaScript (ES6+)** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35" height="35"> **React / SPA** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35" height="35"> **Git / Versioning** |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" height="35"> **Python Scripting** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35" height="35"> **TypeScript** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="35" height="35"> **Docker / Infra** |
 
 ---
 
-### 🚀 Projetos em Destaque
-* **🍴 Site para Restaurante:** Sistema de delivery desenvolvido em JavaScript, focado em facilitar o atendimento ao cliente.
-* **📂 Lógica de Programação:** Repositório acadêmico com algoritmos e estruturas desenvolvidas em C.
+### 📂 High-Impact Projects
+
+* **[Restaurante Delivery System]** - Arquitetura Full-stack focada em otimização de pedidos e UX minimalista.
+* **[Core Logic Labs]** - Implementação de algoritmos complexos e estruturas de dados otimizadas em C.
 
 ---
 
-### 📫 Contato
-<p align="left">
-<a href="mailto:seu-email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/seu-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+### 📊 Performance Metrics
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USER&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USER&layout=compact&theme=tokyonight" />
 </p>
 
+---
+
+### 📫 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:SEU-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <sub>"Code is poetry, but business is about results."</sub>
+</p>
