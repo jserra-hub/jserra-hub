@@ -34,6 +34,6 @@ Aqui estão as ferramentas e linguagens que utilizo nos meus estudos e projetos 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=jserra-hub&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
 </p>
 * 📁 Aplicando organização administrativa na gestão de repositórios.
